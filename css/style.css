@@ -178,10 +178,6 @@ section {
 }
 
 .projects__subtitle {
-  position: absolute;
-}
-
-.projects__subtitle {
   padding: 0;
   margin: 0;
   position: absolute;
