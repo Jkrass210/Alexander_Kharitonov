@@ -199,6 +199,10 @@ section {
   transition: color 0.4s ease-in-out;
 }
 
+.projects__item:nth-of-type(3n+4)>.projects__link >.projects__subtitle {
+  font-size: 30px;
+}
+
 .projects__subtitle::after {
   content: "";
   position: absolute;
